@@ -2,6 +2,9 @@
 
 ## Introduction
 
+![gambar-comgraph.png](attachment:cd1d966e-45b2-4bfa-9aa4-8791075f2562.png)
+
+
 This project implements a **computational graph** that breaks down complex calculations into discrete, traceable components called nodes. Each node represents a simple arithmetic operation or a leaf value, allowing for modular computation. This implementation showcases the power of computational graphs for feature impact analysis and other numerical computations.
 
 The computational graph supports:
