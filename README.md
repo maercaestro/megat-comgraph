@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![gambar-comgraph.png](attachment:cd1d966e-45b2-4bfa-9aa4-8791075f2562.png)
+![alt text](https://github.com/maercaestro/megat-comgraph/blob/a3917f82f7ebfbbc0b2878cbade19af3bd14f5b7/example/gambar-comgraph.png))
 
 
 This project implements a **computational graph** that breaks down complex calculations into discrete, traceable components called nodes. Each node represents a simple arithmetic operation or a leaf value, allowing for modular computation. This implementation showcases the power of computational graphs for feature impact analysis and other numerical computations.
